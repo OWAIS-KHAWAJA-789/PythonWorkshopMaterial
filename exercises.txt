@@ -1,0 +1,61 @@
+1-Write a Python program that takes the your profile (name,age,qualification) as input and then prints it. Use input() and print() functions
+
+
+2-Create a Python program that calculates and prints the area of a rectangle. Ask the user to input the length and width of the rectangle. Make sure to handle the input as numbers, then calculate and display the area. Use appropriate operators for multiplication and make sure to convert the input to numbers using int() or float() as needed.
+
+
+
+3-Write a Python program that calculates the cost of a meal at a restaurant, including tax and tip. input the following information:
+The cost of the food (use a variable for this)
+The tax rate (in percentage, use a variable for this)
+The tip rate (in percentage, use a variable for this)
+Calculate the total cost by adding tax and tip to the cost of the food, then print a receipt-like message that includes the original cost, tax amount, tip amount, and the final total. Ensure that the displayed values are formatted nicely. (Hint: Use appropriate operators for calculations, and format the output using f-strings or the format() method for strings.)
+
+
+
+
+4-Write a Python program that takes two numbers as input from the user and performs the following arithmetic operations:
+Addition
+Subtraction
+Multiplication
+Division
+Display the result of each operation in a clear and formatted manner.
+
+
+
+
+
+5-Create a program that manages information about a group of students. The program should:
+Use a list to store the names of five students.
+Use a tuple to store the ages of the corresponding students.
+Use a dictionary to store the courses each student is enrolled in (e.g., "calculus", "English", "Linear Algebra").
+Ask the user to input the name and age of each student. Then, prompt them to input the courses each student is enrolled in. Finally, display the collected information in a clear and formatted manner.
+
+
+
+
+6-Write a Python program that takes a student's score as input and assigns a letter grade based on the following criteria:
+90 or above: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+Ask the user to input their score, then use if-elif-else statements to determine the grade and print the corresponding message.
+
+
+
+7-You have a list of numbers. Write a Python program that goes through each number in the list and prints whether it is even or odd.
+
+8-Write a Python program that asks the user to input numbers. Keep taking input until the user enters a negative number. For each positive number entered, print whether it is divisible by 3 or not.
+
+9-Write a function called that takes a name as a parameter and prints a greeting message. For example, calling greet("Owais") should print "Hello, Owais!".
+
+
+10-Create a function that calculates the average of a list of numbers.
+
+11-Write a function that accepts a sentence as a parameter and returns a dictionary containing the count of each unique word in the sentence.
+
+12-Use lambda functions and the map function to convert a list of Celsius temperatures to Fahrenheit.
+
+13-Write a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, or sequence of characters that reads the same backward as forward.
+

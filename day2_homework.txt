@@ -1,0 +1,27 @@
+Write a Python program that takes a number as input and prints "Positive" if it's positive, "Negative" if it's negative, and "Zero" if it's zero.
+
+Write a Python program that checks if a given word is a palindrome. A palindrome is a word that reads the same backward as forward (e.g., "radar").
+
+Write a Python program that generates a list of prime numbers within a range.
+
+Write a Python program that calculates the sum of the squares and cubes of numbers from 1 to N, where N is provided by the user.
+
+Write a Python program that prints a diamond pattern for a given odd number (n):
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+Write a Python function that takes a list of integers as input and returns the count of numbers that are both divisible by 3 and 5.
+
+Write a Python function that generates the Fibonacci sequence up to a specified term, allowing the user to input the term number.
+
+Write a Python function that takes a sentence and a list of words as arguments and returns a new sentence where occurrences of any word from the list are replaced with "****".
+
+Write a Python function that takes a list of strings and returns a new list containing only the strings that are palindromes.
+
+Write a Python program that prompts the user to enter a sentence. Then, based on the length of the sentence, perform the following:
+	If the length is even, print the sentence in reverse.
+	If the length is odd, capitalize every second letter in the sentence.

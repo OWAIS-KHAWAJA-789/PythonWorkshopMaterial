@@ -1,0 +1,23 @@
+Project:   Online Bookstore System
+Objective: Develop a simple online bookstore system that allows users to browse books, add them to a cart, and proceed to checkout. The system should handle basic inventory management and provide a summary of the user's order.
+
+Features:
+
+1-Book Inventory:
+Maintain a list of books with details such as title, author, price, and quantity available. Display the available books to the user.
+
+
+2-User Interaction:
+Ask the user to select books by entering book IDs and quantities. Add the selected books to a shopping cart.
+
+3-Arithmetic Operators:
+Calculate the total cost of the books in the shopping cart, including any applicable taxes or discounts.
+
+4-Logical Operators:
+Implement logic to check if a selected book is in stock. If not, inform the user.
+
+5-Comparison Operators:
+Compare the total cost of the order with a predefined minimum order amount. If the order is below the minimum, apply a handling fee.
+
+6-Print Statements:
+Display a summary of the user's order, including selected books, quantities, total cost, and any additional fees.
